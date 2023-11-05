@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;400&display=swap');
+
+.App {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Common styles */
+.button-background-color-green {
+  background-color: #29A643;
+}
+
+.button-sharp-corners {
+  border-radius: 0;
+}
+
+.button-font {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.text-font {
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-color-red {
+  color: #D51820
+}
+
+.card-border-rounded {
+  border-radius: 0.5em
+}
+
+.div-border-rounded {
+  border-radius: 5%
+}
+
+.background-color-beige {
+  background-color: #FFF8D6;
+}
+
+.text-font-small {
+  font-size: small;
+}
+
+.display-inline {
+  float: left
+}
+
+.background-color-light-gray {
+  background-color: #F4F4F4;
+}
+
+.background-color-white {
+  background-color: #FFFFFF;
+}
+
+/* Intro section styles */
+.text-light-gray {
+    color: #DDDDDD
+}
+
+.intro_container-background-image {
+  background-color: #201D27;
+}
+
+/* Currency rates section styles */
+.currency-percentage-green {
+  color: #B1FFC2;
+}
+
+.currency-percentage-red {
+  color: #FFA3A6
+}
+
+.currency-card-border-gray {
+  border-color: #A7A7A733
+}
+
+/* Advantages section styles */
+.horizontal-line-width {
+  width: 70px
+}
+
+.horizontal-line-green {
+  color: #29A643
+}
+
+.horizontal-line-border-width {
+  border-width: 2px;
+}
+
+.horizontal-line-border-color {
+  border-color: #29A643
+}
+
+.advantage-card-background-color-navy {
+  background-color: #0B0819;
+}
+
+/* Registration form styles */
+.step-number-border-rounded {
+  border-radius: 50%;
+}
+
+.step-number-width {
+  width: 26px;
+}
+
+.step-number-background-green {
+  background-color: green;
+}
+
+/* Carousel styles */
+
+
+/* Media queries */
